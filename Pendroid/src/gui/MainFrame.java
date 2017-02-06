@@ -139,6 +139,7 @@ public class MainFrame extends JFrame {
 		panel_3.setLayout(null);
 		
 		JTabbedPane tabbedPane = new JTabbedPane(JTabbedPane.TOP);
+		tabbedPane.setTabLayoutPolicy(JTabbedPane.SCROLL_TAB_LAYOUT);
 		tabbedPane.setBounds(12, 13, 275, 452);
 		panel_3.add(tabbedPane);
 		
