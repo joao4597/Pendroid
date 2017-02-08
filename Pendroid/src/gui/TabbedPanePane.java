@@ -30,7 +30,7 @@ public class TabbedPanePane extends JPanel {
 		panel_8.setBorder(new LineBorder(new Color(0, 0, 0), 1, true));
 		panel_8.setBounds(0, 0, 270, 309);
 		panel_7.add(panel_8);
-		panel_8.setLayout(null);
+		panel_8.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
 		
 		JPanel panel_9 = new JPanel();
 		panel_9.setBorder(new LineBorder(new Color(0, 0, 0), 1, true));

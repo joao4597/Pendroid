@@ -181,7 +181,7 @@ public class MainFrame extends JFrame {
 		btnDelete.setBounds(208, 46, 50, 50);
 		panel_9.add(btnDelete);
 		
-		JLabel lblNewLabel_4 = new JLabel("Equacion:");
+		JLabel lblNewLabel_4 = new JLabel("Equation:");
 		lblNewLabel_4.setFont(new Font("Tahoma", Font.PLAIN, 22));
 		lblNewLabel_4.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_4.setBounds(299, 426, 481, 39);
